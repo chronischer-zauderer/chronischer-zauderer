@@ -2,13 +2,17 @@
 <h1 align="center">Hi there, i'm <a href="https://github.com/chronischer-zauderer">Julio Cardona</a> 👋</h1>
 </div>
 
-<!--
-**chronischer-zauderer/chronischer-zauderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Introduction
 
-I'm a backend developer passionate about building scalable and efficient systems. Currently working with Java and Spring Boot, and expanding my knowledge in C++ and Scala. Always eager to learn and solve challenging problems by applying design patterns and best practices.
+I am a backend-focused software engineer with practical experience designing, developing, and maintaining backend systems for production environments. My core expertise is in Java and Spring Boot, where I have built robust RESTful APIs following clean architecture principles, emphasizing performance, scalability, and maintainability.
 
-Experience working with PostgreSQL, Docker, and microservices to develop robust backend applications. I enjoy exploring new technologies and continuously improving my skills in backend development.
+## About Me
+
+I have professional experience as a freelance backend developer, mainly on e-commerce and API-centric platforms. My responsibilities included improving API response times, optimizing database queries, and ensuring data consistency in SQL-based systems. I have worked extensively with relational databases such as PostgreSQL and MySQL, as well as with MongoDB in non-relational contexts.
+
+Beyond Java, I have hands-on experience with Node.js and NestJS, developing real-time backend features using WebSockets and implementing GraphQL APIs. I am familiar with backend architectural patterns such as layered architecture, client–server models, and microservices-oriented design. I apply SOLID principles and best engineering practices to build clean, testable, and maintainable codebases.
+
+I am comfortable working in Linux environments and have experience using Docker and Kubernetes for containerization and orchestration. I have deployed backend applications on Google Cloud Platform and am experienced in configuring environments, managing containers, and operating backend services in cloud-based infrastructures.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
