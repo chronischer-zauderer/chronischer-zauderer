@@ -5,34 +5,34 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+engineer+%F0%9F%9A%80;Java+%2B+Spring+Boot+%7C+Node.js+%2B+NestJS;Event-driven+systems+with+Kafka;Systems+Engineering+%40+Universidad+del+Valle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+engineer;Java+%2B+Spring+Boot+%7C+Node.js+%2B+NestJS;Event-driven+systems+with+Kafka;Systems+Engineering+%40+Universidad+del+Valle" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Colombia-%F0%9F%87%A8%F0%9F%87%B4-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Colombia-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Graduating-2027-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Data%20Eng%20roles-success?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=chronischer-zauderer&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
-## 👨‍💻 About me
+## About me
 
 Backend engineer and Systems Engineering student at Universidad del Valle (graduating 2027). As a freelancer, I build and maintain production backends for e-commerce and API-driven platforms, with a focus on query performance, data consistency, and clean architecture.
 
-- ☕ Java and Spring Boot are my core stack, with Node.js/NestJS for real-time features (WebSockets) and GraphQL APIs
-- 📨 Designing event-driven systems with Kafka, idempotent processing, and resilience patterns
-- 🗄️ Relational databases (PostgreSQL, MySQL) and MongoDB, with a focus on query optimization
-- 🐳 Containerized workflows with Docker and Kubernetes on Linux
-- 🎯 Looking for **backend and data engineering** opportunities
+- Java and Spring Boot are my core stack, with Node.js/NestJS for real-time features (WebSockets) and GraphQL APIs
+- Designing event-driven systems with Kafka, idempotent processing, and resilience patterns
+- Relational databases (PostgreSQL, MySQL) and MongoDB, with a focus on query optimization
+- Containerized workflows with Docker and Kubernetes on Linux
+- Looking for **backend and data engineering** opportunities
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Distributed Web Scraper & Market Analytics](https://github.com/chronischer-zauderer/distributed-web-scraper-kafka)
+### [Distributed Web Scraper & Market Analytics](https://github.com/chronischer-zauderer/distributed-web-scraper-kafka)
 Event-driven pipeline that scrapes job offers, normalizes them, and computes daily/weekly/monthly demand analytics shown on a Next.js dashboard.
 
 - 4 Spring Boot microservices + Next.js, decoupled via **Kafka**
@@ -45,7 +45,7 @@ Event-driven pipeline that scrapes job offers, normalizes them, and computes dai
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Caching HTTP Proxy](https://github.com/chronischer-zauderer/caching-http-proxy)
+### [Caching HTTP Proxy](https://github.com/chronischer-zauderer/caching-http-proxy)
 Spring Boot proxy that caches GET responses in memory or Redis, with configurable TTL.
 
 - **~95x throughput** with in-memory cache (653 → 62,319 req/s)
@@ -59,7 +59,7 @@ Spring Boot proxy that caches GET responses in memory or Redis, with configurabl
 </tr>
 </table>
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,postgres,mysql,mongodb,kafka,redis,docker,kubernetes,linux,bash,git,nextjs&perline=8" />
@@ -68,7 +68,7 @@ Spring Boot proxy that caches GET responses in memory or Redis, with configurabl
 **Tools:** Azure DevOps (Scrum) · Maven · Resilience4j
 **Learning:** Scala · Data engineering tooling
 
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chronischer-zauderer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -79,17 +79,17 @@ Spring Boot proxy that caches GET responses in memory or Redis, with configurabl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chronischer-zauderer&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution snake
+## Contribution snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chronischer-zauderer/chronischer-zauderer/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 📫 Let's connect
+## Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-cardona-1b2479243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:juliomelendez812@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
