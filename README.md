@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About me
 
-Backend engineer and Systems Engineering student (graduating 2027). As a freelancer I build and maintain production backends for e-commerce and API-driven platforms, focusing on query performance, data consistency, and clean architecture.
+Backend engineer and Systems Engineering student at Universidad del Valle (graduating 2027). As a freelancer, I build and maintain production backends for e-commerce and API-driven platforms, with a focus on query performance, data consistency, and clean architecture.
 
-- 🛒 Backend of **[Cosméticos Yolis](https://cosmeticosyolis.com)**: **[what you did: orders, payments, inventory...]**
-- ⚡ Reduced API response times by **[X%]** by **[optimizing queries / caching / indexing]**
-- 🔌 Real-time features with WebSockets and GraphQL APIs
-- ☁️ Containerized deployments with Docker and Kubernetes on **[GCP / Azure]**
+- ☕ Java and Spring Boot are my core stack, with Node.js/NestJS for real-time features (WebSockets) and GraphQL APIs
+- 📨 Designing event-driven systems with Kafka, idempotent processing, and resilience patterns
+- 🗄️ Relational databases (PostgreSQL, MySQL) and MongoDB, with a focus on query optimization
+- 🐳 Containerized workflows with Docker and Kubernetes on Linux
 - 🎯 Looking for **backend and data engineering** opportunities
 
 ## 🚀 Featured projects
@@ -62,9 +62,10 @@ Spring Boot proxy that caches GET responses in memory or Redis, with configurabl
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,postgres,mysql,mongodb,kafka,redis,docker,kubernetes,linux,bash,git,gcp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,postgres,mysql,mongodb,kafka,redis,docker,kubernetes,linux,bash,git,nextjs&perline=8" />
 </p>
 
+**Tools:** Azure DevOps (Scrum) · Maven · Resilience4j
 **Learning:** Scala · Data engineering tooling
 
 ## 📈 GitHub stats
@@ -88,7 +89,7 @@ Spring Boot proxy that caches GET responses in memory or Redis, with configurabl
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-cardona-1b2479243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
