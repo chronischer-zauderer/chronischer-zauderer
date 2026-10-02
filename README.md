@@ -32,7 +32,7 @@ Backend engineer and Systems Engineering student at Universidad del Valle (gradu
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Distributed Web Scraper & Market Analytics](https://github.com/chronischer-zauderer/[repo])
+### 📊 [Distributed Web Scraper & Market Analytics](https://github.com/chronischer-zauderer/distributed-web-scraper-kafka)
 Event-driven pipeline that scrapes job offers, normalizes them, and computes daily/weekly/monthly demand analytics shown on a Next.js dashboard.
 
 - 4 Spring Boot microservices + Next.js, decoupled via **Kafka**
